@@ -1,5 +1,5 @@
 #  About Me:
-I’m a software engineer currently diving deep into the MERN stack (MongoDB, Express, React, Node.js).<br><br>I’m building a LinkedIn follow-up automation platform, focused on scalable backend APIs, clean frontend architecture, and real-world product thinking.<br><br>I enjoy turning complex requirements into simple, reliable web applications and continuously improving my engineering fundamentals.
+I’m a passionate frontend developer focused on building clean, responsive, and user-friendly web interfaces. I enjoy working with JavaScript and React.js, turning ideas into modern, functional web experiences. Currently learning advanced frontend concepts and exploring backend development to grow as a full-stack developer.
 
 # Tech Stack:
 ### Frontend
@@ -7,17 +7,8 @@ I’m a software engineer currently diving deep into the MERN stack (MongoDB, Ex
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/react_router-CA4245.svg?style=flat-square&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/react_hook_form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat-square&logo=ejs&logoColor=black)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Tooling & DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
@@ -34,7 +25,7 @@ I’m a software engineer currently diving deep into the MERN stack (MongoDB, Ex
 
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arsalan-khan-1-arsalan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arsalankhan1102004@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/saad-ikram-8b9889283) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arhamikram900@gmail.com) 
 ---
 [![](https://visitcount.itsvg.in/api?id=arsalankhan8&icon=4&color=1)](https://visitcount.itsvg.in)
 
