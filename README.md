@@ -10,10 +10,9 @@ I’m a passionate frontend developer focused on building clean, responsive, and
 ![React Hook Form](https://img.shields.io/badge/react_hook_form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Tooling & DevOps
+### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
-![Nodemon](https://img.shields.io/badge/nodemon-%23323330.svg?style=flat-square&logo=nodemon&logoColor=BBDEAD)
 ![GitHub Actions](https://img.shields.io/badge/github_actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 
 
